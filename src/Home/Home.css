@@ -1,0 +1,20 @@
+.Home{
+    width: 100%;
+    height: 80vh;
+    overflow-y: auto;
+}
+.Conteiner{
+    width: 92%;
+    height: 80vh;
+    background-color: white;
+    margin: 2%;
+    border-radius: 25px;
+    padding: 2%;
+}
+.listElement{
+    border: 1px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 25px;
+    margin-top: 2px;
+}

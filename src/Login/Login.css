@@ -1,0 +1,26 @@
+.Login{
+    height: 40vh;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 25px;
+    
+}
+.TimeInput{
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    
+}
+.TitleInput{
+    width: 70%;
+    border-radius: 20px;
+    border-width: 1px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    
+}
